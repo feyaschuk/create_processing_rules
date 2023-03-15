@@ -9,7 +9,7 @@ git clone https://github.com/feyaschuk/create_processing_rules.git
 cd create_processing_rules.py
 ```
 * Create and activate virtual environment:
-* ```bash
+```bash
 python3 -m venv env
 ```
 ```bash
