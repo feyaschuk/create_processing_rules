@@ -1,10 +1,13 @@
 # create_processing_rules
 
 ###How to use:
-Clone the repository and go to it on the command line:
-
+* Clone the repository and go to it on the command line:
+```bash
 git clone https://github.com/feyaschuk/create_processing_rules.git
+```
+```bash
 cd create_processing_rules.py
+```
 Create and activate virtual environment:
 python3 -m venv env
 source env/bin/activate (MAC OC, Linux) // source venv/Scripts/activate (Windows)
