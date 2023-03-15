@@ -22,7 +22,7 @@ python3 -m pip install --upgrade pip
 ```bash
 pip install -r requirements.txt
 ```
-* Add your Vault token in token.txt file and files with data in data folder.
+* Add Vault token in token.txt file and add files with data in data folder.
 
 * Run the program:
 ```bash
