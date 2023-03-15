@@ -19,7 +19,7 @@ source env/bin/activate (MAC OC, Linux) // source venv/Scripts/activate (Windows
 python3 -m pip install --upgrade pip
 ```
 * Install dependencies from requirements.txt file:
-* ```bash
+```bash
 pip install -r requirements.txt
 ```
 * Add your Vault token in token.txt file and files with data in data folder.
