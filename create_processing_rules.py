@@ -12,7 +12,6 @@ offline.init_notebook_mode(connected=True)
 ENV = 'prod'
 TENANT = 'astdevvault'
 
-URL_TOKEN = 'https://login.microsoftonline.com/2807b866-c9a5-4778-84c9-27c31366d350/oauth2/token'
 URL_RULES = 'https://apps.prod.az.eagleinvsys.com:8443/api/vault/eds/eagle/v3/inflow'
 URL_RESORCES = 'https://apps.prod.az.eagleinvsys.com:8443/api/vault/metadata/v2/metadata/resources'
 
